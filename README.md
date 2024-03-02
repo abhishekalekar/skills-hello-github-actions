@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Hello GitHub Actions
+# Hello GitHub Actions 
 
 _Create a GitHub Action and use it in a workflow._
 
@@ -16,7 +16,7 @@ _Create a GitHub Action and use it in a workflow._
 <!--
   <<< Author notes: Step 5 >>>
   Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
+  Define terms and link to docs.github.com. Test
 -->
 
 ## Step 5: Trigger the workflow
